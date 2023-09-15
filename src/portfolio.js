@@ -86,10 +86,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "MATLAB",
-      fontAwesomeClassname: "fas fa-chart-simple"
-    },
-    {
       skillName: "PowerBI",
       fontAwesomeClassname: "fas fa-chart-area"
     },
