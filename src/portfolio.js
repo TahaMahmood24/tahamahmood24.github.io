@@ -144,6 +144,7 @@ const educationInfo = {
         "ME 452: Robotics",
         "ME 464: System Dynamics and Control",
         "MS 492: Operations Management"
+        ]
     }
   ]
 };
