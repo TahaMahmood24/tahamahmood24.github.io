@@ -182,14 +182,10 @@ const workExperiences = {
       date: "January 2023 – August 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Executed 7 Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a 25% reduction in\
-bounce rate and an increase in average user session duration from 1.35 minutes to 1.68 minutes",
-        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer\
-reviews with 86% accuracy, thereby improving strategic product curation process",
-        "Refined a product recommender system with a team of 5 engineers, revolutionizing application user experience through\
-personalized product recommendations, increasing Product Click-Through rate by 12%",
-        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display,\
-boosting weekly Gross Merchandise Value by $0.95 million across all five ventures"
+        "Executed 7 Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a 25% reduction in bounce rate and an increase in average user session duration from 1.35 minutes to 1.68 minutes",
+        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer reviews with 86% accuracy, thereby improving strategic product curation process",
+        "Refined a product recommender system with a team of 5 engineers, revolutionizing application user experience through personalized product recommendations, increasing Product Click-Through rate by 12%",
+        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display, boosting weekly Gross Merchandise Value by $0.95 million across all five ventures"
       ]
     },
     {
@@ -199,14 +195,10 @@ boosting weekly Gross Merchandise Value by $0.95 million across all five venture
       date: "July 2021 – December 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Executed 7 Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a 25% reduction in\
-bounce rate and an increase in average user session duration from 1.35 minutes to 1.68 minutes",
-        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer\
-reviews with 86% accuracy, thereby improving strategic product curation process",
-        "Refined a product recommender system with a team of 5 engineers, revolutionizing application user experience through\
-personalized product recommendations, increasing Product Click-Through rate by 12%",
-        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display,\
-boosting weekly Gross Merchandise Value by $0.95 million across all five ventures"
+        "Executed 7 Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a 25% reduction in bounce rate and an increase in average user session duration from 1.35 minutes to 1.68 minutes",
+        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer reviews with 86% accuracy, thereby improving strategic product curation process",
+        "Refined a product recommender system with a team of 5 engineers, revolutionizing application user experience through personalized product recommendations, increasing Product Click-Through rate by 12%",
+        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display, boosting weekly Gross Merchandise Value by $0.95 million across all five ventures"
         ]
     }
   ]
