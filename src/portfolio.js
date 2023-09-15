@@ -71,7 +71,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "R",
-      fontAwesomeClassname: "fa-solid fa-r"
+      fontAwesomeClassname: "fab fa-r"
     },
     {
       skillName: "HTML",
@@ -83,7 +83,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Tableau",
-      fontAwesomeClassname: "fa-solid fa-chart-line"
+      fontAwesomeClassname: "fab fa-chart-line"
     },
     {
       skillName: "JavaScript",
@@ -91,15 +91,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "MATLAB",
-      fontAwesomeClassname: "fa-solid fa-chart-simple"
+      fontAwesomeClassname: "fab fa-chart-simple"
     },
     {
       skillName: "PowerBI",
-      fontAwesomeClassname: "fa-solid fa-chart-pie"
+      fontAwesomeClassname: "fab fa-chart-pie"
     },
     {
       skillName: "Git",
-      fontAwesomeClassname: "fa-brands fa-git"
+      fontAwesomeClassname: "fab fa-git"
     },
     {
       skillName: "npm",
@@ -111,11 +111,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Azure",
-      fontAwesomeClassname: "fa-solid fa-a>"
+      fontAwesomeClassname: "fabd fa-a>"
     },
     {
       skillName: "Google Cloud",
-      fontAwesomeClassname: "fa-brands fa-google"
+      fontAwesomeClassname: "fab fa-google"
     }
   ],
   display: true // Set false to hide this section, defaults to true
