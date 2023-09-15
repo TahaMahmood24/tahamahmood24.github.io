@@ -181,10 +181,10 @@ const workExperiences = {
       companylogo: require("./assets/images/Daraz-Icon-Vector.jpg"),
       date: "January 2023 – August 2023",
       descBullets: [
-        "Executed <b>7</b> Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a <b>25%</b> reduction in bounce rate and an increase in average user session duration from <b>1.35</b> minutes to <b>1.68</b> minutes",
-        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer reviews with <b>86%</b> accuracy, thereby improving strategic product curation process",
-        "Refined a product recommender system with a team of <b>5</b> engineers, revolutionizing application user experience through personalized product recommendations, increasing Product Click-Through rate by <b>12%</b>",
-        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display, boosting weekly Gross Merchandise Value by <b>$0.95</b> million across all five ventures"
+        "Executed 7 Product A/B Testing strategies across the Buyer application such as Homepage, resulting in a 25% reduction in bounce rate and an increase in average user session duration from 1.35 minutes to 1.68 minutes",
+        "Engineered a robust product sentiment analysis solution, leveraging BERT-NLP techniques to extract insights from customer reviews with 86% accuracy, thereby improving strategic product curation process",
+        "Refined a product recommender system with a team of 5 engineers, revolutionizing application user experience through personalized product recommendations, increasing Product Click-Through rate by 12%",
+        "Led the Badge Project, a data-driven initiative to expand visibility for subsidized items through enhanced assortment display, boosting weekly Gross Merchandise Value by $0.95 million across all five ventures"
       ]
     },
     {
@@ -193,11 +193,11 @@ const workExperiences = {
       companylogo: require("./assets/images/Daraz-Icon-Vector.jpg"),
       date: "July 2021 – December 2022",
       descBullets: [
-        "Refurbished the chatbot system by replacing static answers with AI-led adaptive answers, increasing the Chatbot Resolution Rate from <b>68%</b> to <b>79%</b>",
-        "Pioneered Live Commerce sequencing algorithm via IBCF-Feature Engineering to optimize stream ordering, Resulting in a significant increase from <b>105,000</b> to <b>126,000</b> Stream Daily Active Users (DAU)",
+        "Refurbished the chatbot system by replacing static answers with AI-led adaptive answers, increasing the Chatbot Resolution Rate from 68% to 79%",
+        "Pioneered Live Commerce sequencing algorithm via IBCF-Feature Engineering to optimize stream ordering, Resulting in a significant increase from 105,000 to 126,000 Stream Daily Active Users (DAU)",
         "Employed advanced time series forecasting techniques (Random Forest, XGBoost) to predict Live Commerce order surges, enabling precise demand planning and inventory management",
-        "Implemented an A/B Testing methodology via three distinct Machine Learning algorithms on assortment personalization, resulting in a <b>14%</b> improvement in Product Conversion",
-        "Collaborated with business leaders and stakeholders to establish the logic for <b>25</b> Live Commerce KPIs, subsequently developed a dashboard using SQL and Power BI to effectively monitor and visualize the metrics"
+        "Implemented an A/B Testing methodology via three distinct Machine Learning algorithms on assortment personalization, resulting in a 14% improvement in Product Conversion",
+        "Collaborated with business leaders and stakeholders to establish the logic for 25 Live Commerce KPIs, subsequently developed a dashboard using SQL and Power BI to effectively monitor and visualize the metrics"
         ]
     }
   ]
