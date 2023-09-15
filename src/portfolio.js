@@ -124,7 +124,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Arizona State University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/ASU_Old_Logo.png"),
       subHeader: "Master of Science in Data Science",
       duration: "August 2023 - April 2025",
       desc: "Researching on formulating dynamical systems using machine vision.",
@@ -136,7 +136,7 @@ const educationInfo = {
     },
     {
       schoolName: "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/Ghulam_Ishaq_Khan_Institute_of_Engineering_Sciences_and_Technology_(insignia).png"),
       subHeader: "Bachelor of Science in Mechanical Engineering",
       duration: "August 2017 - July 2021",
       desc: "GIKI 100% Merit Scholarship, 2nd Merit Position in Admission Test, 8th position in Asian Pacific Mathematics Olympiad",
@@ -178,7 +178,7 @@ const workExperiences = {
     {
       role: "Regional Data Product Specialist",
       company: "Daraz (Alibaba Group)",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/Daraz_Logo.png"),
       date: "January 2023 – August 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -191,7 +191,7 @@ const workExperiences = {
     {
       role: "Management Trainee",
       company: "Daraz (Alibaba Group)",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/Daraz_Logo.png"),
       date: "July 2021 – December 2022",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -258,7 +258,7 @@ const achievementSection = {
       title: "IBM Data Science Specialization",
       subtitle:
         "Completed 10 different modules to learn about Machine Learning models, Cloud based Computing and concluded it with a Capstone Project",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/IBM.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -271,7 +271,7 @@ const achievementSection = {
       title: "Google Advanced Data Analytics",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/Google.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -284,7 +284,7 @@ const achievementSection = {
     {
       title: "Google Data Analytics",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/Google.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", 
