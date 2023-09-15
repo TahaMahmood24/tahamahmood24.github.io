@@ -71,7 +71,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "R",
-      fontAwesomeClassname: "fab fa-r"
+      fontAwesomeClassname: "fab fa-r-project"
     },
     {
       skillName: "HTML",
@@ -91,11 +91,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "MATLAB",
-      fontAwesomeClassname: "fab fa-chart-simple"
+      fontAwesomeClassname: "fas fa-chart-simple"
     },
     {
       skillName: "PowerBI",
-      fontAwesomeClassname: "fab fa-chart-pie"
+      fontAwesomeClassname: "fas fa-chart-pie"
     },
     {
       skillName: "Git",
@@ -111,7 +111,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Azure",
-      fontAwesomeClassname: "fabd fa-a>"
+      fontAwesomeClassname: "fab fa-a>"
     },
     {
       skillName: "Google Cloud",
