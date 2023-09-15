@@ -82,10 +82,6 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "Tableau",
-      fontAwesomeClassname: "fab fa-chart-line"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -95,7 +91,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "PowerBI",
-      fontAwesomeClassname: "fas fa-chart-pie"
+      fontAwesomeClassname: "fas fa-chart-area"
+    },
+        {
+      skillName: "Tableau",
+      fontAwesomeClassname: "fas fa-chart-line"
     },
     {
       skillName: "Git",
@@ -111,7 +111,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Azure",
-      fontAwesomeClassname: "fab fa-a>"
+      fontAwesomeClassname: "fas fa-cloud"
     },
     {
       skillName: "Google Cloud",
